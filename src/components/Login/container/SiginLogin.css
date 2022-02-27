@@ -1,0 +1,14 @@
+/** @format */
+
+.paper {
+  width: auto;
+  /* margin: 0px 15%; */
+  margin-top: 60px;
+}
+.logcheck {
+  display: flex;
+
+  width: 69.5%;
+  margin: auto;
+  height: auto;
+}

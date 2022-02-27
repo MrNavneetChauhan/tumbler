@@ -1,0 +1,28 @@
+
+
+.payment{
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    width:500px;
+  
+    .first{
+      display: flex;
+    }
+    .second{
+      width:100%;
+      &>input{
+        width: 100%;
+      }
+    }
+  
+    .third{
+      display: flex;
+      width:100%;
+      &>input{
+        width:100%;
+      }
+    }
+  
+  }

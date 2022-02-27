@@ -1,0 +1,190 @@
+.checkout-page-div {
+  width: 100%;
+  height: 100%;
+  /* border:1px solid red; */
+  display: flex;
+  flex-direction: column;
+}
+.main-div-checkout {
+  margin-left: 5%;
+  margin-right: 5%;
+  /* border:1px solid blue; */
+}
+.main-div-checkout h1 {
+  color: grey;
+}
+
+.signin-div-left {
+  border: 1px solid grey;
+  width: 50%;
+  height: 130px;
+  color: grey;
+  line-height: 10px;
+  padding: 10px;
+}
+.signin-div-left p {
+  font-size: 10px;
+}
+.signin-div-left button {
+  width: 200px;
+  height: 30px;
+  border: none;
+  background-color: #006390;
+  color: white;
+  border-radius: 4px;
+}
+.left-side-div {
+  border: 1px solid grey;
+  width: 50%;
+  padding: 10px;
+}
+.left-side-div-1 h4 {
+  color: grey;
+  border-bottom: 1px solid grey;
+}
+.div-firstand-lastname {
+  display: flex;
+  flex-direction: row;
+}
+
+.div-firstand-lastname {
+  margin-top: 10px;
+  display: block;
+}
+.div-firstand-lastname input {
+  width: 260px;
+  height: 30px;
+  justify-content: space-around;
+
+  padding-left: 10px;
+}
+
+.div-firstand-lastname input,
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+.div-firstand-lastname-maindiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.addresdiv input {
+  width: 95%;
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  align-items: flex-start;
+}
+.city-state-div {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.state-div select {
+  width: 270px;
+  height: 40px;
+
+  border-radius: 4px;
+}
+.zipcode-div input {
+  width: 250px;
+  height: 30px;
+}
+.shipping-method-div {
+  display: flex;
+  color: rgb(46, 43, 43);
+}
+.nextpayment-div button {
+  background-color: #006390;
+  color: white;
+  width: 95%;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  /* margin-bottom: 50px; */
+}
+.right-side-div {
+  border: 1px solid grey;
+  width: 45%;
+  padding: 10px;
+  float: right;
+}
+
+.signin-div {
+  border: 1px solid grey;
+  width: 50%;
+  height: 230px;
+  color: grey;
+  line-height: 15px;
+  padding: 10px;
+}
+.payments-div {
+  border: 1px solid grey;
+  width: 50%;
+  /* height: 280px; */
+
+  line-height: 15px;
+  padding: 10px;
+}
+.payments-div h4 {
+  color: grey;
+  border-bottom: 1px solid grey;
+}
+.cardno input {
+  width: 95%;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid grey;
+  padding-left: 10px;
+  color: black;
+}
+.expcvv-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.expcvv-div select {
+  width: 150px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+
+.expcvv-div input {
+  width: 150px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+.expcvv-div select {
+  width: 180px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+
+.expcvv-div input {
+  width: 180px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+
+.yestext {
+  color: rgb(34, 31, 31);
+  font-size: 12px;
+}
+.bychecking {
+  color: rgb(34, 31, 31);
+  font-size: 10px;
+}
+
+.bychecking span {
+  color: #006390;
+}
