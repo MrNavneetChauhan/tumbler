@@ -4,11 +4,48 @@ import {Data} from "../../data/productData"
 import { useContext } from "react"
 import { ProductContext } from "../../context/ProductContext"
 import { useNavigate } from "react-router-dom"
+import { useState } from "react"
+import { useEffect } from "react"
 export const ProductsDisplay = ()=>{
+    const [data,setData] = useState([])
+    const {selectedProductDetails} = useContext(ProductContext);
+    const navTo = useNavigate();
 
-    const {selectedProductDetails} = useContext(ProductContext)
-    const navTo = useNavigate()
+    useEffect(()=>{
+        setData(Data)
+    },[])
 
+    const handleColor = (e)=>{
+        let color = e.target.value;
+        let filtered = Data.filter((item)=>item.color == color);
+        setData([...filtered])
+
+    }
+
+    const handleSort = (e)=>{
+        let target = e.target.value;
+        if(target == "asc"){
+          let x =   data.sort((a,b)=>{
+                if(a.itemPrice < b.itemPrice){
+                    return -1
+                }else{
+                    return 1
+                }
+            })
+
+            setData([...x])
+        }
+        else if(target == "desc"){
+          let x =  data.sort((a,b)=>{
+                if(a.itemPrice > b.itemPrice){
+                    return -1
+                }else{
+                    return 1
+                }
+            })
+            setData([...x])
+        }
+    }
     // console.log(selectedProductDetails)
     return (
         <div className="product-display">
@@ -28,17 +65,22 @@ export const ProductsDisplay = ()=>{
                             <option value="">2 Packs</option>
                         </select>
 
-                        <select>
+                        <select onChange={handleColor}>
                             <option value="">Inner Color</option>
-                            <option value="">Clear</option>
-                            <option value="">Green</option>
-                            <option value="">Red</option>
-                            <option value="">Blue</option>
-                            <option value="">Purple</option>
+                            <option value="blue">Blue</option>
+                            <option value="yellow">Yellow</option>
+                            <option value="pink">Pink</option>
+                            <option value="sky-blue">Sky-Blue</option>
+                            <option value="black">Black</option>
 
-                            <option value="">Black</option>
+                            <option value="brinjal">Brinjal</option>
 
-                            <option value="">Orange</option>
+                            <option value="brown">Brown</option>
+
+                            
+                            <option value="maroon">Maroon</option>
+
+                            
                         </select>
 
                         <select>
@@ -67,10 +109,8 @@ export const ProductsDisplay = ()=>{
                 {/* second div box */}
                 <div>
                     <label htmlFor="">Sort by</label>
-                    <select>
-                        <option value="featured">Featured</option>
-                        <option value="bestsellers">Bestsellers</option>
-                        <option value="newest">Newest Designs</option>
+                    <select onChange={handleSort}>
+                        <option>Featured</option>
                         <option value="asc">Name A to Z</option>
                         <option value="desc">Name Z to A</option>
                     </select>
@@ -79,7 +119,7 @@ export const ProductsDisplay = ()=>{
             {/* products div started */}
         
             <div>
-            { Data.map((item)=>{
+            { data.map((item)=>{
                 return <div>
                     <div onClick={()=>{
                         selectedProductDetails(item)

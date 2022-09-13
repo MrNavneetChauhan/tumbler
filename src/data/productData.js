@@ -15,6 +15,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405075)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PK3&show&obj=MAIN&req=object&sharpen=1)$PDP-ALT-THMB$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405075?$PDP-ALT-THMB$",
+      color:"pink"
   },
   {
     itemName: "Mandalorian - Grogu",
@@ -32,6 +33,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1402587)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1402587?$PDP-ALT-THMB$",
+      color:"black"
   },
   {
     itemName: "Loving Plaid",
@@ -49,6 +51,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1404259)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PU7&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1404259?$PDP-ALT-THMB$",
+      color:"brinjal"
   },
   {
     itemName: "Only Good Vibes",
@@ -66,6 +69,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1402678)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PK3&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1402678?$PDP-ALT-THMB$",
+      color:"pink"
   },
   {
     itemName: "Kelly Ventura - Heather Rose",
@@ -83,6 +87,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405171)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PU17&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405171?$PDP-ALT-THMB$",
+      color:"brown"
   },
   {
     itemName: "Salt Life® - Lobster Dive",
@@ -100,6 +105,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1403957)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1403957?$PDP-ALT-THMB$",
+      color:"maroon"
   },
   {
     itemName: "Disney®/Pixar - Ratatouille",
@@ -117,6 +123,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1406338)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1406338?$PDP-ALT-THMB$",
+      color:"blue"
   },
   {
     itemName: "Disney® - Mickey Through the Years",
@@ -134,6 +141,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1406942)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/RD1&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1406942?$PDP-ALT-THMB$",
+      color:"maroon"
   },
   {
     itemName: "Star Wars™ - R2D2 Icon",
@@ -151,6 +159,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1405338)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL2&show&obj=MAIN&req=object&sharpen=1)$PDP-ALT-THMB$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405338?$PDP-ALT-THMB$",
+      color:"blue"
   },
   {
     itemName: "Callie Danielle - Beach Biking",
@@ -168,6 +177,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/24DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/24DWT-V2-WRA-DECO3?&$img-src=1390613)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1390613?$PDP-ALT-THMB$",
+      color:"pink"
   },
   {
     itemName: "Sara Berrenson - Home Sweet Home",
@@ -185,6 +195,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405955)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL3&show&obj=MAIN&req=object&sharpen=1)$PDP-ALT-THMB$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405955?$PDP-ALT-THMB$",
+      color:"blue"
   },
   {
     itemName: "Sunflower Flyby",
@@ -202,6 +213,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1406265)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/YE1&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1406265?$PDP-ALT-THMB$",
+      color:"yellow"
   },
   {
     itemName: "Sara Berrenson - Scoops and Pops",
@@ -219,6 +231,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405200)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405200?$PDP-ALT-THMB$",
+      color:"pink"
   },
   {
     itemName: "EttaVee You Can",
@@ -236,6 +249,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1403307)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL10&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1403307?$PDP-ALT-THMB$",
+      color:"sky-blue"
   },
   {
     itemName: "Inkreel - Island Hopping",
@@ -253,6 +267,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1403469)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL28&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1403469?$PDP-ALT-THMB$",
+      color:"sky-blue"
   },
   {
     itemName: "Warner Brothers - Tweety 80th Anniversary",
@@ -270,6 +285,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405016)&pos=20%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/YE1&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1405016?$PDP-ALT-THMB$",
+      color:"yellow"
   },
   {
     itemName: "Simply Southern® - Havin' a Good Day",
@@ -287,6 +303,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1408323)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/OR2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1408323?$PDP-ALT-THMB$",
+      color:"orange"
   },
   {
     itemName: "EttaVee Be Spot On",
@@ -304,6 +321,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1403815)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL28&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1403815?$PDP-ALT-THMB$",
+      color:"sky-blue"
   },
   {
     itemName: "Simply Southern® - Cheer Up Buttercup",
@@ -321,6 +339,7 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1407932)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/PK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1407932?$PDP-ALT-THMB$",
+      color:"pink"
   },
   {
     itemName: "Disney® - Up House",
@@ -338,5 +357,6 @@ export let Data = [
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1403481)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL10&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemImgTwo:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis/1403481?$PDP-ALT-THMB$",
+      color:"blue"
   },
 ];
