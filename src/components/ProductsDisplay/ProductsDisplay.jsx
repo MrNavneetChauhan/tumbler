@@ -46,6 +46,13 @@ export const ProductsDisplay = ()=>{
             setData([...x])
         }
     }
+
+    const handleBrands = (e)=>{
+        let brands = e.target.value;
+        let filtered = Data.filter((item)=>item.itemName == brands);
+        setData([...filtered])
+    }
+
     // console.log(selectedProductDetails)
     return (
         <div className="product-display">
@@ -83,22 +90,22 @@ export const ProductsDisplay = ()=>{
                             
                         </select>
 
-                        <select>
-                            <option value="">Brands</option>
-                            <option value="">Disney</option>
-                            <option value="">Mandalorian</option>
-                            <option value="">Loving Plaid</option>
-                            <option value="">Only Good Vibes</option>
-                            <option value="">Kelly Ventura </option>
-                            <option value="">Salt Life </option>
-                            <option value="">Star Wars </option>
-                            <option value="">Callie Danielle </option>
-                            <option value="">Sara Berrenson</option>
-                            <option value="">Sunflower Flyby</option>
-                            <option value="">EttaVee</option>
-                            <option value="">Inkreel </option>
-                            <option value="">Warner Brothers</option>
-                            <option value="">Simply Southern</option>
+                        <select onChange={handleBrands}>
+                            <option>Brands</option>
+                            <option value="Disney® - Princess Group Hug">Disney</option>
+                            <option value="Mandalorian - Grogu">Mandalorian</option>
+                            <option value="Loving Plaid">Loving Plaid</option>
+                            <option value="Only Good Vibes">Only Good Vibes</option>
+                            <option value="Kelly Ventura - Heather Rose">Kelly Ventura </option>
+                            <option value="Salt Life® - Lobster Dive">Salt Life </option>
+                            <option value="Star Wars™ - R2D2 Icon">Star Wars </option>
+                            <option value="Callie Danielle - Beach Biking">Callie Danielle </option>
+                            <option value="Sara Berrenson - Scoops and Pops">Sara Berrenson</option>
+                            <option value="Sunflower Flyby">Sunflower Flyby</option>
+                            <option value="EttaVee You Can">EttaVee</option>
+                            <option value="Inkreel - Island Hopping">Inkreel </option>
+                            <option value="Warner Brothers - Tweety 80th Anniversary">Warner Brothers</option>
+                            <option value="Simply Southern® - Havin' a Good Day">Simply Southern</option>
 
                         </select>
                     </div>

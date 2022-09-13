@@ -108,7 +108,7 @@ export let Data = [
       color:"maroon"
   },
   {
-    itemName: "Disney®/Pixar - Ratatouille",
+    itemName: "Disney® - Princess Group Hug",
     itemImg:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1406338)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BK2&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemPrice: 20.99,
@@ -126,7 +126,7 @@ export let Data = [
       color:"blue"
   },
   {
-    itemName: "Disney® - Mickey Through the Years",
+    itemName: "Disney® - Princess Group Hug",
     itemImg:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1406942)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/RD1&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemPrice: 21.99,
@@ -180,7 +180,7 @@ export let Data = [
       color:"pink"
   },
   {
-    itemName: "Sara Berrenson - Home Sweet Home",
+    itemName: "Sara Berrenson - Scoops and Pops",
     itemImg:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1405955)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL3&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemPrice: 16.99,
@@ -306,7 +306,7 @@ export let Data = [
       color:"orange"
   },
   {
-    itemName: "EttaVee Be Spot On",
+    itemName: "EttaVee You Can",
     itemImg:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/WRA&decal&src=is(tervis/16DWT-V2-WRA-DECO3?&$img-src=1403815)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL28&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemPrice: 16.99,
@@ -342,7 +342,7 @@ export let Data = [
       color:"pink"
   },
   {
-    itemName: "Disney® - Up House",
+    itemName: "Disney® - Princess Group Hug",
     itemImg:
       "https://marvel-b1-cdn.bc0a.com/f00000000077703/images.tervis.com/is/image/tervis?layer=0&src=ir(tervisRender/16DWT1-V2?&obj=MAIN/GLARE&show&obj=MAIN/OUTER/SMOOTH/CL1&show&obj=MAIN/INNER/LINED/CL1&show&obj=MAIN/EMB&decal&src=is(tervis/16DWT-V2-EMB-DECO3?&$img-src=1403481)&pos=0%2C0&show&obj=MAIN/ACCESSORIES/LIDTRV/BL10&show&obj=MAIN&req=object&sharpen=1)$PDP-LG$",
     itemPrice: 17.99,
